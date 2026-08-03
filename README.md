@@ -48,7 +48,7 @@ Além do aspecto legal e normativo, equipamentos ociosos ou mal distribuídos en
   
 - Jan/2026 a Jul/2026: R$ 191 mil
   
-- Projeção até Dez/2026: R$ 326 mil
+- Projeção até Dez/2026: R$ 135 mil
 
 ## 🔍 Insights Obtidos
 
@@ -81,19 +81,6 @@ Antes de investir em novas calibrações, é recomendada uma análise de utiliza
 
 Uma estratégia de remanejamento de instrumentos pode reduzir custos, especialmente para equipamentos utilizados apenas em avaliações pontuais.
 
-### 5. Crescimento dos custos de calibração
-
-Os gastos praticamente dobraram ao comparar:
-
-- R$ 154 mil (Ago-Dez/2024)
-
-- R$ 326 mil (2025)
-
-Isso reforça a necessidade de gestão mais eficiente do ciclo de calibração.
-
-### 6. Manutenção do patamar de gastos em 2026
-
-A projeção indica fechamento próximo a R$ 326 mil em 2026, sugerindo continuidade do nível atual de despesas.
 
 ## 🛠 Ferramentas Utilizadas
 
@@ -105,25 +92,42 @@ A projeção indica fechamento próximo a R$ 326 mil em 2026, sugerindo continui
   
 - Modelagem de Dados
 
-## 📈 Possíveis Melhorias Futuras
 
-- Indicador de utilização por equipamento;
-
-- Classificação ABC dos instrumentos;
-  
-- Custo por filial;
-  
-- Previsão de vencimentos futuros;
-  
-- Alertas automáticos de calibração;
-  
-- Indicador de ROI das calibrações.
   
 ## 🏗️ Modelagem
 
+<p align="center">
+<img width="169" height="531" alt="image" src="https://github.com/user-attachments/assets/8b1b5c88-9978-4aa9-9b9b-1f1b1cd7f583" />
+</p>
+
 ## 📐 Principais medidas DAX
+### Equipamentos Vencidos
+<p align="center">
+<img width="343" height="92" alt="image" src="https://github.com/user-attachments/assets/d713be70-c753-494d-bf6f-d2cea24f291a" />
+</p>
 
+### Equipamentos Vigentes
+<p align="center">
+<img width="297" height="88" alt="image" src="https://github.com/user-attachments/assets/4e589139-6c09-4283-9789-ca4620624b19" />
+</p>
 
-## 📬 Contato
+### Equipamentos Próximos do Vencimento
+<p align="center">
+<img width="414" height="89" alt="image" src="https://github.com/user-attachments/assets/530e01b1-76a9-4d46-90c9-e0e7e2fd4335" />
+</p>
 
-Projeto desenvolvido para fins de portfólio e demonstração de análise de dados aplicada à Segurança do Trabalho.
+### Total Equipamentos
+<p align="center">
+<img width="284" height="38" alt="image" src="https://github.com/user-attachments/assets/7f31433d-b229-4732-bc0e-c930a821d243" />
+</p>
+
+## 👨‍💼 Sobre o Autor
+
+Projeto desenvolvido por **Jonathan Batista da Silva**, Técnico de Segurança do Trabalho e formado em Engenharia de Software.
+
+Este trabalho foi desenvolvido com o objetivo de aplicar conceitos de Business Intelligence e análise de dados em um contexto real de Segurança e Saúde no Trabalho, transformando dados em informações estratégicas para apoio à tomada de decisão.
+
+### Conecte-se comigo
+
+- LinkedIn: https://www.linkedin.com/in/jonathan-batista-5a8103244
+- GitHub: https://github.com/JonathanB0308
